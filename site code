@@ -2,12 +2,12 @@
 <html>
   <head>
   <title>Ricewood Pyography</title>
-  // link css
+  <!-- link css -->
   </head>
 <body>
 <h1> Ricewood Pyography Designs </h1>
 
-//sample for gallery image
+<!-- sample for gallery image -->
 <div class="gallery">
   <a target="_blank" href="forest.jpg">
     <img src="forest.jpg" alt="Forest" width="300" height="200">
